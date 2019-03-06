@@ -8,3 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HelloWeb.unity
     guid: 64a5054a0f0ea44289570b097434751f
+  - enabled: 1
+    path: Assets/Scenes/HelloWeb2.unity
+    guid: 029e9192cca454008a6ead05433b4fe9
+  m_configObjects: {}
